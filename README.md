@@ -8,16 +8,16 @@ This project demonstrates an end-to-end sales data analysis workflow — from da
 
 Designed as a portfolio project, it highlights industry best practices in:
 
-. Data cleaning and preprocessing
+    - Data cleaning and preprocessing
 
-. Exploratory Data Analysis (EDA)
+    - Exploratory Data Analysis (EDA)
 
-. Data modeling
+    - Data modeling
 
-. Dashboard development
+    - Dashboard development
 
-. Business insight generation
+    - Business insight generation
 
-. Data-driven decision making
+    - Data-driven decision making
 
 The objective is to transform raw sales data into meaningful insights that support strategic business decisions.
