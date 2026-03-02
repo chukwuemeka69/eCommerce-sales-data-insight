@@ -42,17 +42,7 @@ The objective is to help stakeholders understand sales performance, customer beh
 
     Git & GitHub – Version control and project documentation
 
-#📁 Project Structure
 
-eCommerce-sales-data-insight/
-│
-├── dataset/
-│   ├
-│   └── processed/            # Cleaned dataset
-│
-├── dashboards/               # Power BI dashboard files (.pbix)
-│
-└── README.md                 # Project documentation
 
 
 
