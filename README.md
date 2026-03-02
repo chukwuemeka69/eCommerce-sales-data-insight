@@ -1,23 +1,58 @@
-#eCommerce Sales Project
+#📊 eCommerce Sales Data Insight
 
-Welcome to the eCommerce Sales Project repository!
+An end-to-end data analytics project that transforms raw eCommerce sales data into actionable business insights using industry best practices in data analysis and visualization.
 
-This project demonstrates an end-to-end sales data analysis workflow — from data cleaning and transformation to visualization and generation of actionable business insights.
+#📌 Project Overview
 
-##Project Overview
+This project demonstrates the full data analytics lifecycle:
 
-Designed as a portfolio project, it highlights industry best practices in:
+        - Data collection
 
-    - Data cleaning and preprocessing
+        - Data cleaning & preprocessing
 
-    - Exploratory Data Analysis (EDA)
+        - Exploratory Data Analysis (EDA)
 
-    - Data modeling
+        - Data modeling
 
-    - Dashboard development
+        - Dashboard development
 
-    - Business insight generation
+        - Insight generation
 
-    - Data-driven decision making
+        - Business recommendations
 
-The objective is to transform raw sales data into meaningful insights that support strategic business decisions.
+The objective is to help stakeholders understand sales performance, customer behavior, product trends, and revenue drivers.
+
+#🎯 Business Objectives
+
+    - Analyze overall sales performance
+
+    - Identify top-performing products and categories
+
+    - Evaluate customer purchasing behavior
+
+    - Detect seasonal trends and revenue patterns
+
+    - Provide data-driven recommendations for growth
+
+#🛠️ Tools & Technologies
+
+    Power BI – Data modeling and dashboard creation
+
+    Microsoft Excel – Data cleaning and preprocessing
+
+    Git & GitHub – Version control and project documentation
+
+#📁 Project Structure
+
+eCommerce-sales-data-insight/
+│
+├── dataset/
+│   ├
+│   └── processed/            # Cleaned dataset
+│
+├── dashboards/               # Power BI dashboard files (.pbix)
+│
+└── README.md                 # Project documentation
+
+
+
