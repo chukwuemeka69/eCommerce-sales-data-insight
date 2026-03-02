@@ -1,8 +1,8 @@
-#📊 eCommerce Sales Data Insight
+# 📊 eCommerce Sales Data Insight
 
 An end-to-end data analytics project that transforms raw eCommerce sales data into actionable business insights using industry best practices in data analysis and visualization.
 
-#📌 Project Overview
+# 📌 Project Overview
 
 This project demonstrates the full data analytics lifecycle:
 
@@ -22,7 +22,7 @@ This project demonstrates the full data analytics lifecycle:
 
 The objective is to help stakeholders understand sales performance, customer behavior, product trends, and revenue drivers.
 
-#🎯 Business Objectives
+# 🎯 Business Objectives
 
     - Analyze overall sales performance
 
@@ -34,7 +34,7 @@ The objective is to help stakeholders understand sales performance, customer beh
 
     - Provide data-driven recommendations for growth
 
-#🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
     Power BI – Data modeling and dashboard creation
 
