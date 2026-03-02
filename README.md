@@ -48,7 +48,7 @@ The insight empower stakeholder with key business metrics, enable strategic deci
 
 ## 👤 Author
 
-John Ilozor
+** John Ilozor **
 Data Analyst | AI Enthusiast | Microsoft Certified Trainer Aspirant
 
 ## License
