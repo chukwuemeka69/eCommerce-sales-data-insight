@@ -48,9 +48,9 @@ The insight empower stakeholder with key business metrics, enable strategic deci
 
 ## 👤 Author
 
-** John Ilozor **
+**John Ilozor**
 Data Analyst | AI Enthusiast | Microsoft Certified Trainer Aspirant
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it, provided that proper attribution is included.
+This project is licensed under the _MIT License_. You are free to use, modify, and distribute it, provided that proper attribution is included.
 
