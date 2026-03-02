@@ -43,6 +43,9 @@ The objective is to help stakeholders understand sales performance, customer beh
     Git & GitHub – Version control and project documentation
 
 
+# 👤 Author
 
+John Ilozor
+Data Analyst | AI Enthusiast | Microsoft Certified Trainer Aspirant
 
 
